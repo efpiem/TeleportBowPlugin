@@ -2,7 +2,7 @@
 Implements a bow that teleports you whenever the arrow will land into your Bukkit/Spigot Server.
 
 Instruction for the correct use of the plugin:
-Your server should be in 1.19.4 version to work properly
+your server should be in 1.19.4 version to work properly
 
 In config.yml you can customize every message
 
